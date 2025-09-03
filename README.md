@@ -3,12 +3,10 @@
 A **beautiful, responsive, offline-first Task Manager** built with **Vanilla JavaScript, HTML, and CSS**.  
 Your tasks stay **local to your browser** — no accounts, no servers, just you and your productivity. ✨  
 
-![Task Manager Preview](https://i.ibb.co/TPVDP26/task-manager-preview.png) <!-- replace with your own screenshot if you want -->
-
 ---
 
 ## 🌐 Live Demo
-👉 [View Live Project](https://your-live-url-here.com)
+👉 [View Live Project](https://varsha-kh.github.io/Task_Manager_Vanilla_JS/)
 
 ---
 
@@ -26,12 +24,10 @@ Your tasks stay **local to your browser** — no accounts, no servers, just you 
 
 ## 📸 Screenshots
 
-### 💻 Desktop UI
-![Desktop Screenshot](https://i.ibb.co/smq12Zs/task-desktop.png) <!-- replace with your screenshot -->
+### 💻 Desktop UI<img width="1792" height="1035" alt="Screenshot 2025-09-03 at 15 38 07" src="https://github.com/user-attachments/assets/f0d7e91d-009e-4402-8db1-775b79d8aa42" />
 
-### 📱 Mobile UI
-![Mobile Screenshot](https://i.ibb.co/7CvBMSB/task-mobile.png) <!-- replace with your screenshot -->
-
+### 📱 Mobile UI <br />
+<img width="366" height="780" alt="Screenshot 2025-09-03 at 15 40 24" src="https://github.com/user-attachments/assets/fee919f5-73a8-42a5-ac8a-0c8df5166e06" />
 ---
 
 ## 🛠️ Tech Stack
@@ -42,11 +38,3 @@ Your tasks stay **local to your browser** — no accounts, no servers, just you 
 - **LocalStorage API**
 
 ---
-
-## 🚀 Getting Started
-
-Clone the repository and open in your browser:
-
-```bash
-git clone https://github.com/your-username/task-manager-vanillajs.git
-cd task-manager-vanillajs
